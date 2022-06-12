@@ -1,3 +1,5 @@
+# if you have hacked my code,  tyoe yes here if you have guts
+
 def sqrt(n):
     return n**(0.5)
 
